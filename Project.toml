@@ -1,0 +1,13 @@
+name = "QuantumGateRoutines"
+uuid = "81c5a657-6d74-4734-a2a0-64f624603b0a"
+authors = ["Roger-luo"]
+version = "0.1.0"
+
+[compat]
+julia = "1.3.1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

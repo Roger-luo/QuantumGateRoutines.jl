@@ -4,3 +4,10 @@
 git-tree-sha1 = "62a7a6cd5a608ff71cecfdb612e67a0897836069"
 uuid = "9d95972d-f1c8-5527-a6e0-b4b365fa01f6"
 version = "1.2.0"
+
+[[YaoLocations]]
+git-tree-sha1 = "aa7d9aca7ebc22dc13a64cb31a3a7bc8539445d5"
+repo-rev = "master"
+repo-url = "https://github.com/QuantumBFS/YaoLocations.jl.git"
+uuid = "66df03fb-d475-48f7-b449-3d9064bf085b"
+version = "0.1.0"

@@ -1,2 +1,6 @@
 # This file is machine-generated - editing it directly is not advised
 
+[[TupleTools]]
+git-tree-sha1 = "62a7a6cd5a608ff71cecfdb612e67a0897836069"
+uuid = "9d95972d-f1c8-5527-a6e0-b4b365fa01f6"
+version = "1.2.0"
